@@ -1,14 +1,17 @@
 {
   "name": "react-text-modal-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Package to display modals",
   "author": "stoyb",
   "main": "dist/index.js",
   "module": "dist/index.js",
-  "files": [ "dist", "README.md" ],
-  "repository": {    
-    "type": "git",    
-    "url": "https://github.com/stoyb/text-modal"  
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stoyb/text-modal"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
