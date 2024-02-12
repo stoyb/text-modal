@@ -1,6 +1,6 @@
 {
   "name": "react-text-modal-component",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Package to display modals",
   "author": "stoyb",
   "main": "dist/index.js",
