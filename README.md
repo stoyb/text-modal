@@ -20,6 +20,11 @@ The React package react-text-modal-component makes it easy to display modals wit
 
 ### Package
 The package provides the Modal component to be used in a parent component with three props.
+This is an example to use it : 
+
+import Modal from 'react-text-modal-component/dist/Modal'
+
+ <Modal isOpen={isOpen} handleClose={closeModal}>Employee created !</Modal>
 
 ### Props 
 Here is a table defining the props `isOpen`, `handleClose`, and `children`, indicating whether they are required, their function, and their value:
